@@ -4,6 +4,8 @@
 # Documentation du Projet Unity
 
 ## **Prérequis à installer**
+**Repos git avec les elements unity ** 
+https://github.com/YasmineChettah/TPUnity
 
 ### **SQLite sur unity**
    - **Bibliothèque SQLite pour Unity** : Utilisation de `Mono.Data.Sqlite` pour la connexion à la base de données SQLite.
