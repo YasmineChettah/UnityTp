@@ -5,7 +5,7 @@
 
 ## **Prérequis à installer**
 **Repos git avec les elements unity ** 
-https://github.com/YasmineChettah/TPUnity
+https://github.com/YasmineChettah/TheRosettaMystery
 
 ### **SQLite sur unity**
    - **Bibliothèque SQLite pour Unity** : Utilisation de `Mono.Data.Sqlite` pour la connexion à la base de données SQLite.
@@ -71,6 +71,8 @@ username : Nom d'utilisateur, clé étrangère référencée depuis la table use
 score : Score de l'utilisateur, valeur par défaut 0.
 level : Niveau de l'utilisateur, valeur par défaut 1.
 Cette table lie directement un utilisateur à ses statistiques de jeu.
+
+Table Items
 
 Table comments :
 
