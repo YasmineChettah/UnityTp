@@ -37,7 +37,7 @@ https://github.com/YasmineChettah/TheRosettaMystery
    - **Lancer le serveur** :
      Exécutez le serveur en utilisant la commande suivante dans le terminal :
      ```
-     node server.js
+     node index.js
      ```
 
 ### **WebSocketSharp pour Unity**
